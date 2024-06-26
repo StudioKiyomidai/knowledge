@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/vitepress-demo/",
+  base: "/knowledge/",
   title: "StudioKiyomidai Knowledge",
   description: "A VitePress Site",
   themeConfig: {
