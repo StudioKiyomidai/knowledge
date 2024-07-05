@@ -23,5 +23,9 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
-- [testリンク](./test/test.md)
+- [testリンクだよん](./test/test.md)
+
+- [ナレッジを追加します](./makinaledge/makina.md)
+
+- [Taichanのページ](./taichan/taichan.md)
 
