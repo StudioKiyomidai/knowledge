@@ -18,7 +18,8 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'お試し', link: '/test/test' }
+          { text: 'お試し', link: '/test/test' },
+          { text: 'Taichan', link: '/taichan/taichan' }
         ]
       }
     ],
