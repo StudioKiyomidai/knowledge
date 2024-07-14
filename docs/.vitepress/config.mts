@@ -19,7 +19,10 @@ export default defineConfig({
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
           { text: 'お試しよ', link: '/test/test' },
-          { text: 'Taichan', link: '/taichan/taichan' }
+          { text: 'Taichan', link: '/taichan/taichan' },
+          { text: 'Makina', link: '/makinaledge/makina' },
+          { text: 'Markdown', link: '/markdown/markdown' },
+          { text: 'CSS', link: '/CSS/css' }
         ]
       }
     ],

@@ -1,34 +1,6 @@
 :root {
-    --vp-c-brand-1: #646cff;
-    --vp-c-brand-2: #747bff;
-    --vp-c-text: #FFF;
-    --vp-c-link: #646cff;
-    --vp-c-link-hover: #747bff;
-  }
-  
-  /* 追加のカスタムスタイル */
-  .custom-header {
-    font-size: 2rem;
-    font-weight: bold;
-    color: var(--vp-c-brand-1);
-  }
-  
-  .custom-subheader {
-    font-size: 1.5rem;
-    font-weight: semibold;
-    color: var(--vp-c-brand-2);
-  }
-  
-  .custom-list-item {
-    font-size: 1rem;
-    color: var(--vp-c-text);
-  }
-  
-  .custom-link {
-    color: var(--vp-c-link);
-  }
-  
-  .custom-link:hover {
-    color: var(--vp-c-link-hover);
-  }
-  
+  --c-brand: #8664ff;
+  --c-brand-light: #8974ff;
+}
+
+
